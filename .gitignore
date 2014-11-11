@@ -4,4 +4,4 @@
 .project
 .settings
 *.swp
-test/data/*
+*/test/data/
