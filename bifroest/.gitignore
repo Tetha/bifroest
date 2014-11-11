@@ -1,0 +1,7 @@
+/target
+/logs
+.classpath
+.project
+.settings
+*.swp
+test-files/*
