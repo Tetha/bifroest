@@ -1,6 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <description>Provides an efficient cassandra based storage for graphite</description>
   <modelVersion>4.0.0</modelVersion>
+  <groupId> com.goodgame.profiling </groupId>
   <artifactId>bifroest-bifroest</artifactId>
   <packaging>jar</packaging>
   <version>16.0.7-SNAPSHOT</version>
@@ -83,7 +84,7 @@
     <dependency>
         <groupId>com.goodgame.profiling</groupId>
         <artifactId>profiling-commons</artifactId>
-        <version>19.2.7</version>
+        <version>21.0.5-SNAPSHOT</version>
     </dependency>
    <!-- ################################################## -->
 

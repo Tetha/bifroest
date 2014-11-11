@@ -2,6 +2,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>profiling-commons</artifactId>
+  <groupId> com.goodgame.profiling </groupId>
   <version>21.0.5-SNAPSHOT</version>
   <packaging>jar</packaging>
 

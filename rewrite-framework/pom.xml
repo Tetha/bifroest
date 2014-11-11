@@ -3,6 +3,7 @@
 
   <artifactId>bifroest-rewrite-framework</artifactId>
   <version>26.1.1-SNAPSHOT</version>
+  <groupId> com.goodgame.profiling </groupId>
   <packaging>jar</packaging>
   <name>bifroest-rewrite-framework</name>
 
